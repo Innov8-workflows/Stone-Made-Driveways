@@ -2,3 +2,6 @@
 !.gitignore
 !index.html
 !b-a-1-web.mp4
+!.github/
+!.github/workflows/
+!.github/workflows/*.yml

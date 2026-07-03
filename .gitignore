@@ -1,6 +1,8 @@
 *
 !.gitignore
 !index.html
+!review.html
+!og-review.jpg
 !b-a-1-web.mp4
 !.github/
 !.github/workflows/
